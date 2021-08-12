@@ -1,9 +1,10 @@
+
 #!/bin/bash
 # Proxy For Edukasi & Imclass
 # ==============================
 
 # Getting Proxy Template
-wget -q -O /usr/local/bin/edu-proxy https://raw.githubusercontent.com/ZzZzZzZXCoo/no/main/proxy-templated.py
+wget -q -O /usr/local/bin/edu-proxy https://raw.githubusercontent.com/Ianqitgu742543/caxacacacacaxl/main/proxy-templated.py
 chmod +x /usr/local/bin/edu-proxy
 
 # Installing Service
