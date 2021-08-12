@@ -10,7 +10,7 @@ fi
 echo "Start Update"
 #cd /usr/bin
 rm /usr/bin/menu
-wget -q https://raw.githubusercontent.com/ZzZzZzZXCoo/error/main/install.sh && chmod +x install.sh && sed -i -e 's/\r$//' install.sh && ./install.sh
+wget -q https://raw.githubusercontent.com/Ianqitgu742543/bangsat/main/install.sh && chmod +x install.sh && sed -i -e 's/\r$//' install.sh && ./install.sh
 rm install.sh
 clear
 echo " Update Successfull"
